@@ -1,5 +1,3 @@
-# VBA-project
-
 # VBA Homework - The VBA of Wall Street
 
 ## Background
